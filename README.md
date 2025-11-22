@@ -19,9 +19,7 @@ The task includes analyzing log data using Splunk SIEM, identifying suspicious e
 
 ## 📁 Included Files
 - **Final_SOC_Incident_Report.pdf** – Detailed Incident Response Report  
-- **SOC_Incident_Presentation.pptx** – Presentation summarizing the investigation  
-- **Alert_Classification.xlsx** – 5 key suspicious alerts  
-- **All_Logs_Classified_Color.xlsx** – All logs with severity classification + color coding  
+- **Alert_Classification.xlsx** – All logs with severity classification 
 - **SIEM Screenshots** – Malware, Failed Login, File Access dashboards  
 
 ---
@@ -44,9 +42,8 @@ The task includes analyzing log data using Splunk SIEM, identifying suspicious e
 
 ## 🗂️ Tools Used
 - **Splunk SIEM** – Log search, timeline analysis, dashboard creation  
-- **Excel (OpenPyXL)** – Severity classification spreadsheet  
+- **Excel** – Severity classification spreadsheet  
 - **ReportLab** – PDF report generation  
-- **Python** – Log parsing & automation  
 
 ---
 
